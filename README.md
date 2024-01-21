@@ -15,4 +15,4 @@ The app logs distraction instances, allowing users to monitor and reflect on the
 ## MediaPipe Holistic Integration
 This advanced AI framework is at the core of FocusFlow AI, providing real-time, multi-dimensional analysis of the user's body language to ensure engagement and focus.
 
-In essence, FocusFlow AI is not just an app but a study partner, helping users stay committed to their tasks with personalized AI support, making each Pomodoro session more effective.
+In essence, FocusFlow AI is not just a web-app but a study partner, helping users stay committed to their tasks with personalized AI support, making each Pomodoro session more effective.
