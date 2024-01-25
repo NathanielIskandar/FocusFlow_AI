@@ -1,0 +1,23 @@
+ 
+==========BACKEND============
+OpenCV:
+1. opency-python
+2. cv2
+
+Mediapipe:
+1. mediapipe
+2. @mediapipe/camera_utils
+
+Flask:
+1. Flask
+2. render_template
+3. SocketIO
+
+===============================
+
+
+==========FRONTEND=============
+React:
+1. react-webcam
+
+===============================
